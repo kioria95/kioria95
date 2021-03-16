@@ -2,6 +2,11 @@
 - 👀 I’m interested in Web Development, App Development and Robotics
 - 🌱 I’m currently learning React Js, Redux, Firebase
 
+You can check out my YouTube channel below where I have posted tutorial videos for some of my builds. Also, there is a blog where you can find the same
+
+YouTube Channel: https://www.youtube.com/channel/UCPM1ekGUoaJk7VTgi9DekPg
+Blog: https://kenyandev254.blogspot.com/?m=1
+
 
 <!---
 kioria95/kioria95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
