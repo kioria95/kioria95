@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kioria95
-- 👀 I’m interested in Web Development, App Development and Robotics
+- 👀 I’m interested in Web Development, Android App Development and Robotics
 - 🌱 I’m currently learning React Js, Redux, Firebase
 
 You can check out my YouTube channel below where I have posted tutorial videos for some of my builds. Also, there is a blog where you can find the same
