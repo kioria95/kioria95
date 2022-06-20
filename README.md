@@ -6,7 +6,7 @@ You can check out my YouTube channel below where I have posted tutorial videos f
 
 YouTube Channel: https://www.youtube.com/channel/UCPM1ekGUoaJk7VTgi9DekPg
 
-Blog: https://kenyandev254.blogspot.com/?m=1
+Blog:https://www.kenyandev.com/
 
 Portfolio: https://kengicira.com/
 
